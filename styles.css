@@ -2,3 +2,8 @@ body {
   background-color: grey;
   color: black;
 }
+
+.radius {
+  border-bottom-left-radius: 50%;
+  background-color: red;
+}
